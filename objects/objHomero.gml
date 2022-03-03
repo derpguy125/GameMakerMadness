@@ -18,15 +18,24 @@ arg1=0
 #define Keyboard_13
 /*"/*'/**//* YYD ACTION
 lib_id=1
-action_id=222
-invert=0
-arg0=0
-*/
-/*"/*'/**//* YYD ACTION
-lib_id=1
 action_id=211
 invert=0
 arg0=sound5
+arg1=0
+*/
+/*"/*'/**//* YYD ACTION
+lib_id=1
+action_id=224
+invert=0
+arg0=room1
+arg1=0
+*/
+#define Keyboard_67
+/*"/*'/**//* YYD ACTION
+lib_id=1
+action_id=224
+invert=0
+arg0=room4
 arg1=0
 */
 #define Other_0
