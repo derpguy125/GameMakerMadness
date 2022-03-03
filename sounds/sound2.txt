@@ -1,0 +1,7 @@
+extension=.mid
+exists=1
+kind=1
+effects=16
+volume=0.85
+pan=0
+preload=1
